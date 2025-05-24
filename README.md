@@ -27,4 +27,4 @@ When I'm not coding, you'll find me exploring new ideas in **learning**, indulgi
 
 ## 🌐 Connect with Me
 
-Findme on [Linkedin](www.linkedin.com/in/jesusshdez) or [Twitter](https://x.com/KyleHyde14).
+Findme on [Linkedin](www.linkedin.com/in/jesusshdez) or [Twitter](https://x.com/KyleHyde00).

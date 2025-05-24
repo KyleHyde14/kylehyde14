@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm KyleHyde14 👋
 
-<!--
-**KyleHyde14/kylehyde14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Developer** who thrives on building impactful solutions in **Web Development** and **Automation**. I love working with **Python** and **JavaScript** (plus an ever-growing toolkit of frameworks), always seeking out new challenges and creative projects!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### ♟️ [Chess Engine](https://github.com/KyleHyde14/Chess-Engine)
+A robust, evolving chess engine built to challenge and inspire. Dive into the code, contribute, or just test your tactics!
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django, Flask, React (library, I Know) and many more!
+- **Focus:** Webdev, Automation, and problem-solving
+
+---
+
+## 🌱 Beyond Coding
+
+When I'm not coding, you'll find me exploring new ideas in **learning**, indulging my curiosity for **science**, or pushing myself in **fitness**. I believe in constant growth—both in and out of tech.
+
+---
+
+## 🌐 Connect with Me
+
+Find all my social links right here on my [GitHub profile](https://github.com/KyleHyde14), or reach out via the platforms listed above!

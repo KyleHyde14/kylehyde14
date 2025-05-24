@@ -27,4 +27,4 @@ When I'm not coding, you'll find me exploring new ideas in **learning**, indulgi
 
 ## 🌐 Connect with Me
 
-Find all my social links right here on my [GitHub profile](https://github.com/KyleHyde14), or reach out via the platforms listed above!
+Findme on [Linkedin profile](www.linkedin.com/in/jesusshdez) [Twitter profile](https://x.com/KyleHyde14).

@@ -13,15 +13,15 @@ A robust, evolving chess engine built to challenge and inspire. Dive into the co
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript
-- **Frameworks:** Django, Flask, React (library, I Know) and many more!
+- **Languages:** Python, JavaScript, GO coming soon...
+- **Frameworks:** Django, Flask, React (library, I Know), ExpressJS.
 - **Focus:** Webdev, Automation, and problem-solving
 
 ---
 
 ## 🌱 Beyond Coding
 
-When I'm not coding, you'll find me exploring new ideas in **learning**, indulging my curiosity for **science**, or pushing myself in **fitness**. I believe in constant growth—both in and out of tech.
+When I'm not coding, you'll find me exploring new ideas, indulging my curiosity for **science**, or pushing myself in **fitness**. I believe in constant growth—both in and out of tech.
 
 ---
 

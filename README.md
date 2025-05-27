@@ -6,7 +6,7 @@ I'm a passionate **Software Developer** who thrives on building impactful soluti
 
 ## 🚀 Featured Project
 
-### ♟️ [Chess Engine](https://github.com/KyleHyde14/Chess-Engine)
+### ♟️ [Chess Engine](https://github.com/KyleHyde14/Chess_Engine)
 A robust, evolving chess engine built to challenge and inspire. Dive into the code, contribute, or just test your tactics!
 
 ---
